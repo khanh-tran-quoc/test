@@ -1,1 +1,2 @@
 import './folder/inner/c' { c }
+import './a' { a }
